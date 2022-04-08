@@ -5,6 +5,6 @@ The FactCheck dataset provides two sets of news instances: one with 100 real new
 
 The FactCheck2 dataset is merely a supplement to the FactCheck dataset, with the sole difference being the amount of instances of actual and fraudulent news. It includes 600 examples of legitimate news and 120 examples of fraudulent news. It's essentially an imbalanced class dataset, similar to what you'd find in real life. The rest of the information is identical to that provided by FactCheck.
 
-Dataset | #Real instances | #Fake instances | Total instances
-FactCheck | 100 | 100 | 200
-FactCheck2 | 600 | 120 | 720
+| Dataset | #Real instances | #Fake instances | Total instances |
+| FactCheck | 100 | 100 | 200 |
+| FactCheck2 | 600 | 120 | 720 |
